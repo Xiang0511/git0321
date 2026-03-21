@@ -14,3 +14,4 @@ console.log('test5');
 
 
 console.log('testxaing');
+console.log('testmain');
